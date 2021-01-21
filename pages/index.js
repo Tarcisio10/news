@@ -7,11 +7,15 @@ function Home() {
                 <title>TARCISIO</title>
             </head>
             <body>
+                <h1>teste fora</h1>
                 <div>
                     <h5>TESTE html</h5>
                     <div>Home</div>
                     <Contador />
+                    <a href="/fotos">fotos</a>
+
                 </div>
+                <a href="/fotos">fotos</a>
                 <script src="//rum-static.pingdom.net/pa-6009b40b06c8370013000279.js" async></script>
             </body>
         </html>
