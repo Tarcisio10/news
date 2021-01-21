@@ -2,10 +2,15 @@ import { useState } from 'react';
 
 function Home() {
     return (
-        <div>
-            <div>Home1</div>
-            <Contador />
-        </div>
+        <html>
+            <head></head>
+            <body>
+                <div>
+                    <div>Home</div>
+                    <Contador />
+                </div>
+            </body>
+        </html>
     )
 }
 
