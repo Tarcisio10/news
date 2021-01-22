@@ -8,6 +8,15 @@ function Home() {
             </head>
             <body>
                 <h1>teste fora</h1>
+                <center>
+                    <h1>Bem vindo TK</h1>
+                    <p><i><b>@Tarciblois</b></i></p>
+                    <h2><a href="/Tattoo/tattos.html">Tattoo</a></h2>
+                    <h2><a href="/Fotos/fotos.htm">Fotos</a></h2>
+                    <h2><a href="https://www.linkedin.com/in/tarcisio-blois-07604b171/">Linkedin</a></h2>
+                    <h2><a href="https://github.com/Tarcisio10">Github</a></h2>
+                    <h2><p>Instagram</p></h2>
+                </center>
                 <div>
                     <h5>TESTE html</h5>
                     <div>Home</div>
